@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AssemFadl
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning R Programming 
+- 🌱 I’m currently learning R Programming Language
 - 💞️ I’m looking to collaborate on any available project
 - 📫 How to reach me...via Email : assim.fadhl@gmail.com || Cellular : +960.728.1287
 
